@@ -1,6 +1,6 @@
 import { generateAge } from './generate-age.js'
-import { generateSkin } from './generate-skin.js'
 import { generateHeight } from './generate-height.js'
+import { generateSkin } from './generate-skin.js'
 
 export const generateFirstInfo = (fullName, finalPunctuation) => {
 
